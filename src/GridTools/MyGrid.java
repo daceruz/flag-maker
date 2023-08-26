@@ -15,7 +15,7 @@ import java.awt.Color;
  * You should not modify this file in any way.
  * 
  * You should not even READ this file unless you are very curious and
- * not easily scared! hi
+ * not easily scared!
  * 
  */
 public class MyGrid extends JPanel {
